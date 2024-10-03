@@ -39,17 +39,17 @@ a {
 .header-link-item:hover {
     color: #404BBF;
 }
-.address-link-contacs {
+.adress-link-contacs {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.address-link-contacs:focus {
+.adress-link-contacs:focus {
     color: #404BBF;
 }
-.address-link-contacs:hover {
+.adress-link-contacs:hover {
     color: #4D5AE5;
 }
 .list {
